@@ -1,3 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('Loaded');
+    function createName() {
+        const name = ['John', 'Chantal'];
+        const randomName = Math.random();
+    }
 })
